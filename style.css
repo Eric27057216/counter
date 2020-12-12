@@ -1,0 +1,22 @@
+#pa_div {
+  text-align:center;
+}
+
+#div1 {
+  margin:0 auto;
+  margin-top:100px;
+}
+
+#input1 {
+  height:20px;
+}
+
+button {
+  width:30px;
+  height:30px;
+}
+
+.disabled {
+  background-color:#faa;
+  color:white;
+}
